@@ -32,13 +32,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EswarSai19&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="m-sehrawat" height="139" />
 </p>
 
-<h2><i>Top Repositories</i></h2>
-<p>
-    <a href="https://github.com/EswarSai19/Gearbest-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EswarSai19&repo=Gearbest-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
- <a href="https://github.com/EswarSai19/SUGAR-Cosmetic-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EswarSai19&repo=SUGAR-Cosmetic-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>  
+
+    
 </p>
 
