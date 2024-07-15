@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Sceince and AI**
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Science, NLP, SQL, EDA, Power BI, Cmputer Vision**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Science, NLP, SQL, EDA, Power BI, Computer Vision**
 
 - 📫 How to reach me **eswarsai219@gmail.com**
 
