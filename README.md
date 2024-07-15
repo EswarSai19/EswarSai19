@@ -3,11 +3,11 @@
  I'm Eswar Sai 
  <img src='https://media.giphy.com/media/l0Iyk1HsfD3mMkiEE/giphy.gif' width="35"/>
  </h1>
-<h3 align="center">A passionate full stack web developer from India.</h3>
+<h3 align="center">A passionate AI and ML developer from India.</h3>
 
-- 🌱 I’m currently learning **MERN stack web Development**
+- 🌱 I’m currently learning **Data Sceince and AI**
 
-- 💬 Ask me about **HTML,CSS, JavaScript, React**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Science, NLP, SQL, EDA, Power BI, Cmputer Vision**
 
 - 📫 How to reach me **eswarsai219@gmail.com**
 
