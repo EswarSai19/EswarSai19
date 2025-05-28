@@ -44,25 +44,6 @@
 </p>
 <br>
 
-<!----------------------------------- Project Section ------------------------------------>
-<h2><i>My Top Projects</i></h2>
-
-<p align="left">
-    <a href="https://github.com/EswarSai19/Gigzera" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Project 1&color=000000&logo=github&logoColor=FFFFFF&label=" alt="Project-1" />
-    </a>
-    <a href="https://github.com/EswarSai19/SUGAR-Cosmetic-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Project 2&color=1BB91F&logo=github&logoColor=FFFFFF&label=" alt="Project-2" />
-    </a>
-    <a href="https://github.com/EswarSai19/Chatbot-Projects" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Project 2&color=1BB91F&logo=github&logoColor=FFFFFF&label=" alt="Project-2" />
-    </a>
-    <a href="https://github.com/EswarSai19/Chatbot-Projects" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Project 2&color=1BB91F&logo=github&logoColor=FFFFFF&label=" alt="Project-2" />
-    </a>
-    <!-- Add more projects as needed -->
-</p>
-<br>
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 <h2><i>Let's Connect</i></h2>
@@ -92,15 +73,3 @@
 </p>
 <br>
 
-<!----------------------------------- Top Repository Section ------------------------------------>
-<h2><i>Top Repositories</i></h2>
-
-<p>
-    <a href="https://github.com/EswarSai19/Gigzera">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EswarSai19&repo=Project1&locale=en&border_radius=0&theme=dark" alt="Gigzera" />
-    </a>
-    <a href="https://github.com/EswarSai19/Chatbot-Projects">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EswarSai19&repo=Project2&locale=en&border_radius=0&theme=dark" alt="Chatbot-Projects" />
-    </a>
-    <!-- Add more repositories as needed -->
-</p>
