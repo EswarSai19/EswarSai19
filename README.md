@@ -11,7 +11,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at [Your Current Company]</i>
+    <i>- Currently working at The KCP Limited</i>
 </h3>
 <br>
 
@@ -65,13 +65,13 @@
     <a href="https://linkedin.com/in/eswarsai19">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://twitter.com/YourTwitterHandle">
+    <a href="https://twitter.com/eswarsai19">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
     <a href="https://your-portfolio-link.com">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio" />
     </a>
-    <a title="your-email@example.com" href="mailto:your-email@example.com">
+    <a title="your-email@example.com" href="mailto:eswarsai219@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </p>
@@ -97,4 +97,9 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EswarSai19&repo=Project2&locale=en&border_radius=0&theme=dark" alt="Project2" />
     </a>
     <!-- Add more repositories as needed -->
+</p>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EswarSai19&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EswarSai19&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="m-sehrawat" height="139" />
 </p>
